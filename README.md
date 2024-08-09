@@ -2,7 +2,15 @@
 
 
 
-Daftar End Point : post /auth/login untuk login
+
+
+Daftar End Point : 
+
+
+
+
+
+post /auth/login untuk login
 
 post /auth/register untuk register akun baru
 
