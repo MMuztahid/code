@@ -4,8 +4,8 @@ Author : Mohammad Muztahid
 ## URL Domain : sanber-be-58-final-project-mamed-production.up.railway.app
 
 ### Daftar End Point : 
-post /auth/login untuk login
-post /auth/register untuk register akun baru
+post /auth/login untuk login  
+post /auth/register untuk register akun baru  
 get /auth/me untuk info akun credentials
 put /auth/profile untuk update profile
 get /products untuk find all products
